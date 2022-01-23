@@ -26,6 +26,8 @@ namespace CountingCandles_Original
             Console.WriteLine("the tallest candles are " + tallestCandle + " unit high");
             Console.WriteLine("there are " + tallestCandles.Count + " candles with this height");
             Console.WriteLine("the total  units of measurement for tallest candles is " + tallestCandles.Sum()) ;
+
+            Console.WriteLine("Thanks for checking out this method!");
         }
     }
 }
